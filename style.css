@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #c5c4d4;
+}
+
+h1, h2{
+  color: #2f11c5;
+}
+  input[type="nombre"],
+  input[type="edad"],
+  input[type="apellido"],
+  input[type="puesto"],
+  input[type="email"],
+  input[type="telefono"],
+
+}
+form {
+  margin-bottom: 23px;
+}
+.card {
+  border: 16px solid #0b0a0a;
+  padding: 10px;
+  margin-bottom: 16px;
+}
